@@ -1,0 +1,26 @@
+_repo: A-Beginner-s-Psychology_51442
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Titchener, Edward Bradford
+    alias: Titchener, E. B. (Edward Bradford)
+    birthdate: 1867
+    deathdate: 1927
+    gutenberg_agent_id: '46415'
+    url: http://www.gutenberg.org/2009/agents/46415
+description: ''
+gutenberg_issued: '2016-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51442'
+  lccn: '15026892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychology'
+- !lcc 'BF'
+- GITenberg
+title: A Beginner's Psychology
+url: http://www.gutenberg.org/ebooks/51442
